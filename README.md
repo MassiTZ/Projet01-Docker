@@ -2,6 +2,10 @@
 
 Ce dépôt permet de déployer un environnement de test local pour WordPress en utilisant Docker et Vagrant.
 
+## Prérequis
+
+- Installez VirtualBox, Vagrant et Git sur votre machine.
+
 ## Contenu du dépôt
 
 - `Vagrantfile`: Un fichier de configuration Vagrant pour spécifier les paramètres de la machine virtuelle.

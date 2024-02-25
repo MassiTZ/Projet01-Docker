@@ -32,7 +32,7 @@ Ce dépôt permet de déployer un environnement de test local pour WordPress en 
 
  - Une fois que les services sont lancés, vous pouvez accéder à votre site WordPress en ouvrant un navigateur web et en visitant l'adresse http://192.168.56.2:8080.
 
-
+ ![Texte alternatif](result.png)
       
    
 
